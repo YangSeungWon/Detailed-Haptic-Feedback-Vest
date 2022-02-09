@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 344ce02865ac60c408ef5a9960e96e61, type: 3}
+  m_Name: back18
+  m_EditorClassIdentifier: 
+  Intensity: 1
+  Duration: 1
+  ClipType: 2
+  JsonValue: "{\r\n    \"project\": {\r\n        \"createdAt\": 1644409286045,\r\n       
+    \"description\": \"\",\r\n        \"layout\": {\r\n            \"layouts\": {\r\n               
+    \"VestBack\": [\r\n                    {\r\n                        \"index\":
+    0,\r\n                        \"x\": 0,\r\n                        \"y\": 0\r\n                   
+    },\r\n                    {\r\n                        \"index\": 1,\r\n                       
+    \"x\": 0.333,\r\n                        \"y\": 0\r\n                    },\r\n                   
+    {\r\n                        \"index\": 2,\r\n                        \"x\":
+    0.667,\r\n                        \"y\": 0\r\n                    },\r\n                   
+    {\r\n                        \"index\": 3,\r\n                        \"x\":
+    1,\r\n                        \"y\": 0\r\n                    },\r\n                   
+    {\r\n                        \"index\": 4,\r\n                        \"x\":
+    0,\r\n                        \"y\": 0.25\r\n                    },\r\n                   
+    {\r\n                        \"index\": 5,\r\n                        \"x\":
+    0.333,\r\n                        \"y\": 0.25\r\n                    },\r\n                   
+    {\r\n                        \"index\": 6,\r\n                        \"x\":
+    0.667,\r\n                        \"y\": 0.25\r\n                    },\r\n                   
+    {\r\n                        \"index\": 7,\r\n                        \"x\":
+    1,\r\n                        \"y\": 0.25\r\n                    },\r\n                   
+    {\r\n                        \"index\": 8,\r\n                        \"x\":
+    0,\r\n                        \"y\": 0.5\r\n                    },\r\n                   
+    {\r\n                        \"index\": 9,\r\n                        \"x\":
+    0.333,\r\n                        \"y\": 0.5\r\n                    },\r\n                   
+    {\r\n                        \"index\": 10,\r\n                        \"x\":
+    0.667,\r\n                        \"y\": 0.5\r\n                    },\r\n                   
+    {\r\n                        \"index\": 11,\r\n                        \"x\":
+    1,\r\n                        \"y\": 0.5\r\n                    },\r\n                   
+    {\r\n                        \"index\": 12,\r\n                        \"x\":
+    0,\r\n                        \"y\": 0.75\r\n                    },\r\n                   
+    {\r\n                        \"index\": 13,\r\n                        \"x\":
+    0.333,\r\n                        \"y\": 0.75\r\n                    },\r\n                   
+    {\r\n                        \"index\": 14,\r\n                        \"x\":
+    0.667,\r\n                        \"y\": 0.75\r\n                    },\r\n                   
+    {\r\n                        \"index\": 15,\r\n                        \"x\":
+    1,\r\n                        \"y\": 0.75\r\n                    },\r\n                   
+    {\r\n                        \"index\": 16,\r\n                        \"x\":
+    0,\r\n                        \"y\": 1\r\n                    },\r\n                   
+    {\r\n                        \"index\": 17,\r\n                        \"x\":
+    0.333,\r\n                        \"y\": 1\r\n                    },\r\n                   
+    {\r\n                        \"index\": 18,\r\n                        \"x\":
+    0.667,\r\n                        \"y\": 1\r\n                    },\r\n                   
+    {\r\n                        \"index\": 19,\r\n                        \"x\":
+    1,\r\n                        \"y\": 1\r\n                    }\r\n               
+    ],\r\n                \"VestFront\": [\r\n                    {\r\n                       
+    \"index\": 0,\r\n                        \"x\": 0,\r\n                       
+    \"y\": 0\r\n                    },\r\n                    {\r\n                       
+    \"index\": 1,\r\n                        \"x\": 0.333,\r\n                       
+    \"y\": 0\r\n                    },\r\n                    {\r\n                       
+    \"index\": 2,\r\n                        \"x\": 0.667,\r\n                       
+    \"y\": 0\r\n                    },\r\n                    {\r\n                       
+    \"index\": 3,\r\n                        \"x\": 1,\r\n                       
+    \"y\": 0\r\n                    },\r\n                    {\r\n                       
+    \"index\": 4,\r\n                        \"x\": 0,\r\n                       
+    \"y\": 0.25\r\n                    },\r\n                    {\r\n                       
+    \"index\": 5,\r\n                        \"x\": 0.333,\r\n                       
+    \"y\": 0.25\r\n                    },\r\n                    {\r\n                       
+    \"index\": 6,\r\n                        \"x\": 0.667,\r\n                       
+    \"y\": 0.25\r\n                    },\r\n                    {\r\n                       
+    \"index\": 7,\r\n                        \"x\": 1,\r\n                       
+    \"y\": 0.25\r\n                    },\r\n                    {\r\n                       
+    \"index\": 8,\r\n                        \"x\": 0,\r\n                       
+    \"y\": 0.5\r\n                    },\r\n                    {\r\n                       
+    \"index\": 9,\r\n                        \"x\": 0.333,\r\n                       
+    \"y\": 0.5\r\n                    },\r\n                    {\r\n                       
+    \"index\": 10,\r\n                        \"x\": 0.667,\r\n                       
+    \"y\": 0.5\r\n                    },\r\n                    {\r\n                       
+    \"index\": 11,\r\n                        \"x\": 1,\r\n                       
+    \"y\": 0.5\r\n                    },\r\n                    {\r\n                       
+    \"index\": 12,\r\n                        \"x\": 0,\r\n                       
+    \"y\": 0.75\r\n                    },\r\n                    {\r\n                       
+    \"index\": 13,\r\n                        \"x\": 0.333,\r\n                       
+    \"y\": 0.75\r\n                    },\r\n                    {\r\n                       
+    \"index\": 14,\r\n                        \"x\": 0.667,\r\n                       
+    \"y\": 0.75\r\n                    },\r\n                    {\r\n                       
+    \"index\": 15,\r\n                        \"x\": 1,\r\n                       
+    \"y\": 0.75\r\n                    },\r\n                    {\r\n                       
+    \"index\": 16,\r\n                        \"x\": 0,\r\n                       
+    \"y\": 1\r\n                    },\r\n                    {\r\n                       
+    \"index\": 17,\r\n                        \"x\": 0.333,\r\n                       
+    \"y\": 1\r\n                    },\r\n                    {\r\n                       
+    \"index\": 18,\r\n                        \"x\": 0.667,\r\n                       
+    \"y\": 1\r\n                    },\r\n                    {\r\n                       
+    \"index\": 19,\r\n                        \"x\": 1,\r\n                       
+    \"y\": 1\r\n                    }\r\n                ]\r\n            },\r\n           
+    \"name\": \"Tactot\",\r\n            \"type\": \"Tactot\"\r\n        },\r\n       
+    \"mediaFileDuration\": 3,\r\n        \"name\": \"1\",\r\n        \"tracks\":
+    [\r\n            {\r\n                \"effects\": [\r\n                    {\r\n                       
+    \"modes\": {\r\n                            \"VestBack\": {\r\n                               
+    \"dotMode\": {\r\n                                    \"dotConnected\": false,\r\n                                   
+    \"feedback\": [\r\n                                        {\r\n                                           
+    \"endTime\": 100,\r\n                                            \"playbackType\":
+    \"NONE\",\r\n                                            \"pointList\": [\r\n                                               
+    {\r\n                                                    \"index\": 18,\r\n                                                   
+    \"intensity\": 0.5\r\n                                                }\r\n                                           
+    ],\r\n                                            \"startTime\": 0\r\n                                       
+    }\r\n                                    ]\r\n                               
+    },\r\n                                \"mode\": \"DOT_MODE\",\r\n                               
+    \"pathMode\": {\r\n                                    \"feedback\": [\r\n                                       
+    {\r\n                                            \"movingPattern\": \"CONST_SPEED\",\r\n                                           
+    \"playbackType\": \"NONE\",\r\n                                            \"visible\":
+    true,\r\n                                            \"pointList\": []\r\n                                       
+    }\r\n                                    ]\r\n                               
+    }\r\n                            },\r\n                            \"VestFront\":
+    {\r\n                                \"dotMode\": {\r\n                                   
+    \"dotConnected\": false,\r\n                                    \"feedback\":
+    [\r\n                                        {\r\n                                           
+    \"endTime\": 100,\r\n                                            \"playbackType\":
+    \"NONE\",\r\n                                            \"startTime\": 0,\r\n                                           
+    \"pointList\": []\r\n                                        }\r\n                                   
+    ]\r\n                                },\r\n                                \"mode\":
+    \"DOT_MODE\",\r\n                                \"pathMode\": {\r\n                                   
+    \"feedback\": [\r\n                                        {\r\n                                           
+    \"movingPattern\": \"CONST_SPEED\",\r\n                                           
+    \"playbackType\": \"NONE\",\r\n                                            \"visible\":
+    true,\r\n                                            \"pointList\": []\r\n                                       
+    }\r\n                                    ]\r\n                               
+    }\r\n                            }\r\n                        },\r\n                       
+    \"name\": \"Effect 1\",\r\n                        \"offsetTime\": 100,\r\n                       
+    \"startTime\": 0\r\n                    }\r\n                ],\r\n               
+    \"enable\": true\r\n            },\r\n            {\r\n                \"enable\":
+    true,\r\n                \"effects\": []\r\n            }\r\n        ],\r\n       
+    \"updatedAt\": 1644409830037\r\n    },\r\n    \"durationMillis\": 0,\r\n    \"intervalMillis\":
+    20,\r\n    \"size\": 20\r\n}"
+  _clipDurationTime: -1
+  TactFileAngleX: 0
+  TactFileOffsetY: 0
