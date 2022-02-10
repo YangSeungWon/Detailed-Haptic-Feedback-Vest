@@ -137,6 +137,6 @@ MonoBehaviour:
     true,\r\n                \"effects\": []\r\n            }\r\n        ],\r\n       
     \"updatedAt\": 1644409300947\r\n    },\r\n    \"durationMillis\": 0,\r\n    \"intervalMillis\":
     20,\r\n    \"size\": 20\r\n}"
-  _clipDurationTime: -1
+  _clipDurationTime: 100
   TactFileAngleX: 0
   TactFileOffsetY: 0

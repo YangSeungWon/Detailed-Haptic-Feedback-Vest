@@ -19,6 +19,7 @@ namespace Bhaptics.Tact.Unity
 
         void OnTriggerEnter(Collider bullet)
         {
+            print("trigger");
             if (IsActive)
             {
                 Handle(bullet.transform.position, bullet.GetComponent<HapticSender>());
