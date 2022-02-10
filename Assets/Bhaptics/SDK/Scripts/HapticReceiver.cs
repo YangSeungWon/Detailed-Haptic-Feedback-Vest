@@ -21,7 +21,23 @@ namespace Bhaptics.Tact.Unity
         {
             if (IsActive)
             {
+                bullet.GetComponent<MeshRenderer>().material.SetColor("_Color", Color.red);
+            }
+        }
+
+        void OnTriggerStay(Collider bullet)
+        {
+            if (IsActive)
+            {
                 Handle(bullet.transform.position, bullet.GetComponent<HapticSender>());
+            }
+        }
+
+        void OnTriggerExit(Collider bullet)
+        {
+            if (IsActive)
+            {
+                bullet.GetComponent<MeshRenderer>().material.SetColor("_Color", Color.yellow);
             }
         }
 
